@@ -1,0 +1,801 @@
+age,sex,bmi,systolic_bp,glucose,cholesterol,kidney_disease,liver_disease,allergy_penicillin,pregnant,condition,recommended_drug
+24,Male,28.5,132,233,137,1,0,0,0,Hypertension,Lisinopril
+65,Male,28.8,106,165,194,0,0,0,0,Hypertension,Amlodipine
+48,Female,31.3,171,82,292,0,0,0,0,Hypertension,Losartan
+74,Male,22.7,161,139,213,1,0,0,0,Hypertension,Amlodipine
+42,Male,25.8,172,140,135,0,0,0,0,Hypertension,Losartan
+49,Male,28.5,152,100,287,0,0,0,0,Hypertension,Losartan
+75,Female,24.9,115,200,247,0,1,0,0,Hypertension,Amlodipine
+27,Female,36.7,155,176,212,0,0,0,0,Hypertension,Losartan
+76,Male,36.4,144,191,233,0,0,1,0,Hypertension,Amlodipine
+55,Male,27.8,113,259,291,0,1,0,0,Hypertension,Losartan
+47,Male,31.4,138,219,320,0,0,0,0,Hypertension,Amlodipine
+25,Female,35.3,154,158,264,0,0,0,0,Hypertension,Losartan
+28,Female,33.1,120,185,192,1,0,0,0,Hypertension,Lisinopril
+49,Female,41.3,117,218,172,0,0,1,0,Hypertension,Losartan
+66,Male,25.3,112,224,236,0,0,0,0,Hypertension,Amlodipine
+63,Female,33.1,107,181,139,1,0,1,0,Hypertension,Amlodipine
+62,Female,21.5,123,199,140,0,0,0,0,Hypertension,Amlodipine
+48,Female,32.2,120,74,150,0,0,1,0,Hypertension,Losartan
+83,Female,31.7,175,173,215,0,0,0,0,Hypertension,Amlodipine
+37,Female,37.8,95,241,229,0,0,0,0,Hypertension,Losartan
+27,Male,36.4,157,131,141,0,0,1,0,Hypertension,Losartan
+55,Female,37.9,134,224,313,0,0,0,0,Hypertension,Losartan
+39,Male,22.0,175,171,129,0,0,0,0,Hypertension,Losartan
+75,Male,39.4,104,169,214,0,0,0,0,Hypertension,Lisinopril
+68,Male,24.3,95,248,310,0,0,0,0,Hypertension,Amlodipine
+34,Female,39.0,146,78,159,0,0,0,0,Hypertension,Losartan
+81,Female,23.5,119,95,123,0,0,0,0,Hypertension,Amlodipine
+64,Female,37.3,112,74,263,0,0,0,0,Hypertension,Amlodipine
+23,Female,25.2,106,163,222,0,0,0,1,Hypertension,Losartan
+63,Female,20.5,149,208,148,0,0,0,0,Hypertension,Amlodipine
+68,Male,29.2,149,219,290,1,0,0,0,Hypertension,Amlodipine
+19,Female,32.5,140,248,294,0,0,0,0,Hypertension,Losartan
+83,Male,28.9,140,117,174,0,0,0,0,Hypertension,Lisinopril
+50,Male,21.5,111,227,184,0,0,0,0,Hypertension,Losartan
+39,Male,20.8,108,173,124,1,0,1,0,Hypertension,Lisinopril
+53,Male,27.4,166,130,317,0,0,1,0,Hypertension,Losartan
+52,Male,24.0,115,192,234,0,1,0,0,Hypertension,Losartan
+78,Female,38.0,104,79,201,1,0,0,0,Hypertension,Amlodipine
+80,Female,36.7,163,189,249,0,0,0,0,Hypertension,Amlodipine
+83,Male,29.1,162,143,257,0,0,0,0,Hypertension,Amlodipine
+61,Male,26.8,115,166,193,0,0,0,0,Hypertension,Amlodipine
+71,Male,40.0,168,161,274,0,0,0,0,Hypertension,Amlodipine
+40,Male,33.2,140,83,177,0,0,0,0,Hypertension,Losartan
+80,Female,32.7,149,88,244,1,0,0,0,Hypertension,Amlodipine
+67,Female,32.2,163,155,277,0,0,0,0,Hypertension,Amlodipine
+21,Female,32.8,109,102,145,0,0,0,0,Hypertension,Losartan
+56,Male,32.4,137,96,307,1,0,1,0,Hypertension,Lisinopril
+67,Female,36.6,112,198,266,0,0,0,0,Hypertension,Amlodipine
+40,Male,21.8,122,253,149,0,0,0,0,Hypertension,Losartan
+29,Male,40.5,126,219,243,0,0,0,0,Hypertension,Losartan
+50,Female,38.4,105,237,248,0,0,0,0,Hypertension,Lisinopril
+48,Male,25.1,165,254,212,0,0,0,0,Hypertension,Losartan
+55,Female,41.9,98,237,257,0,0,0,0,Hypertension,Losartan
+37,Female,20.2,150,200,300,1,0,0,0,Hypertension,Lisinopril
+18,Male,33.8,173,76,121,1,0,0,0,Hypertension,Lisinopril
+18,Female,19.4,168,197,280,0,0,0,0,Hypertension,Amlodipine
+31,Female,30.1,105,173,269,0,0,0,0,Hypertension,Losartan
+19,Female,35.0,139,257,270,1,0,1,0,Hypertension,Lisinopril
+59,Female,20.2,109,217,156,0,0,0,0,Hypertension,Losartan
+77,Male,21.5,116,250,228,0,0,0,0,Hypertension,Amlodipine
+38,Female,30.2,107,201,201,0,0,0,0,Hypertension,Losartan
+59,Female,32.7,129,191,315,0,0,0,0,Hypertension,Losartan
+46,Male,28.0,98,161,215,0,0,0,0,Hypertension,Losartan
+55,Male,33.7,148,130,169,0,0,0,0,Hypertension,Losartan
+71,Male,35.7,139,176,298,0,0,0,0,Hypertension,Amlodipine
+34,Female,38.1,128,164,128,1,0,1,0,Hypertension,Lisinopril
+25,Female,25.5,109,82,269,1,0,0,0,Hypertension,Lisinopril
+34,Male,20.9,138,139,220,0,0,0,0,Hypertension,Losartan
+83,Female,27.3,155,246,248,1,0,0,0,Hypertension,Amlodipine
+66,Female,38.1,174,258,312,0,0,0,0,Hypertension,Amlodipine
+55,Male,19.9,128,229,271,0,0,0,0,Hypertension,Losartan
+34,Male,19.1,149,114,158,0,0,0,0,Hypertension,Lisinopril
+36,Female,38.2,168,191,231,0,0,1,0,Hypertension,Losartan
+62,Male,38.3,124,133,216,0,0,0,0,Hypertension,Amlodipine
+38,Male,38.4,128,135,237,0,0,0,0,Hypertension,Losartan
+51,Male,22.3,149,71,188,0,1,0,0,Hypertension,Losartan
+46,Female,32.4,143,71,203,0,0,0,0,Hypertension,Losartan
+36,Male,39.7,160,168,264,0,0,0,0,Hypertension,Amlodipine
+67,Male,31.3,132,253,251,0,0,0,0,Hypertension,Amlodipine
+83,Male,26.3,95,93,179,0,0,0,0,Hypertension,Amlodipine
+20,Female,27.9,179,84,279,1,0,0,0,Hypertension,Lisinopril
+34,Female,26.9,176,79,194,0,0,0,0,Hypertension,Losartan
+25,Female,19.2,163,243,167,0,0,1,0,Hypertension,Losartan
+54,Female,27.6,155,241,242,0,0,0,0,Hypertension,Losartan
+63,Male,32.2,120,155,199,0,0,0,0,Hypertension,Losartan
+41,Female,37.4,156,171,320,0,0,0,0,Hypertension,Losartan
+76,Male,32.3,100,144,219,0,0,0,0,Hypertension,Losartan
+41,Female,18.4,120,156,313,0,0,0,0,Hypertension,Losartan
+61,Male,39.5,119,143,167,0,0,0,0,Hypertension,Amlodipine
+32,Male,33.7,97,127,291,0,0,0,0,Hypertension,Losartan
+34,Female,37.0,143,181,277,0,0,0,0,Hypertension,Losartan
+63,Male,36.9,135,105,154,1,0,0,0,Hypertension,Amlodipine
+56,Male,18.9,132,249,312,1,1,0,0,Hypertension,Losartan
+48,Female,25.5,139,79,130,1,0,1,0,Hypertension,Lisinopril
+84,Female,27.5,114,149,150,1,0,1,0,Hypertension,Amlodipine
+18,Female,26.0,137,148,206,0,0,0,0,Hypertension,Losartan
+80,Female,34.4,123,113,269,0,1,0,0,Hypertension,Amlodipine
+40,Female,19.1,107,130,147,0,1,0,1,Hypertension,Losartan
+60,Female,31.7,115,114,238,0,1,0,0,Hypertension,Amlodipine
+49,Female,36.6,180,233,178,0,0,0,0,Hypertension,Losartan
+35,Male,25.6,164,174,280,0,0,0,0,Hypertension,Losartan
+73,Female,18.7,158,136,197,0,0,0,0,Hypertension,Amlodipine
+19,Male,39.4,122,98,239,0,0,0,0,Hypertension,Losartan
+72,Male,41.8,117,70,305,0,0,0,0,Hypertension,Amlodipine
+19,Female,30.9,170,101,244,0,1,0,0,Hypertension,Losartan
+84,Male,18.4,99,183,151,0,0,0,0,Hypertension,Amlodipine
+33,Male,34.3,129,171,265,0,0,0,0,Hypertension,Losartan
+80,Male,18.3,98,222,192,0,0,0,0,Hypertension,Amlodipine
+53,Female,21.6,153,138,313,0,0,0,0,Hypertension,Losartan
+34,Female,29.3,170,210,249,0,0,0,0,Hypertension,Losartan
+77,Male,20.5,144,218,301,0,0,1,0,Hypertension,Amlodipine
+47,Male,18.6,113,257,318,0,0,0,0,Hypertension,Losartan
+43,Female,31.9,147,143,202,0,0,0,0,Hypertension,Losartan
+42,Female,21.1,123,101,181,0,0,0,0,Hypertension,Losartan
+64,Male,24.7,170,161,160,0,0,0,0,Hypertension,Amlodipine
+26,Female,29.6,102,253,169,0,0,0,0,Hypertension,Losartan
+62,Female,39.6,170,90,317,0,0,1,0,Hypertension,Amlodipine
+82,Female,31.3,131,88,284,0,0,0,0,Hypertension,Amlodipine
+75,Female,38.4,108,141,237,0,0,0,0,Hypertension,Amlodipine
+25,Male,36.5,98,109,241,0,0,0,0,Hypertension,Losartan
+82,Female,22.3,167,194,203,0,0,0,0,Hypertension,Amlodipine
+57,Male,26.1,140,171,264,0,0,0,0,Hypertension,Losartan
+34,Female,30.4,161,123,218,0,0,0,0,Hypertension,Losartan
+30,Male,29.6,166,252,149,0,0,0,0,Hypertension,Lisinopril
+43,Female,40.0,95,131,304,0,0,0,0,Hypertension,Losartan
+59,Female,35.8,165,140,214,0,0,0,0,Hypertension,Losartan
+41,Female,32.9,163,80,270,0,0,0,0,Hypertension,Losartan
+69,Female,41.8,119,123,296,0,0,0,0,Hypertension,Amlodipine
+22,Female,40.1,128,193,184,0,0,0,0,Hypertension,Losartan
+59,Male,26.2,142,103,138,0,1,0,0,Hypertension,Losartan
+64,Male,41.8,159,156,226,0,0,0,0,Hypertension,Amlodipine
+67,Male,27.7,171,177,150,0,0,0,0,Hypertension,Amlodipine
+66,Female,27.8,124,158,208,0,0,0,0,Hypertension,Amlodipine
+67,Male,18.5,171,132,281,0,0,0,0,Hypertension,Amlodipine
+31,Female,24.6,106,216,147,0,0,0,0,Hypertension,Losartan
+55,Male,40.9,145,186,269,0,0,0,0,Hypertension,Losartan
+35,Female,18.6,153,172,200,0,0,0,0,Hypertension,Losartan
+40,Female,31.1,155,163,208,0,0,0,0,Hypertension,Losartan
+60,Male,35.9,179,260,273,0,0,0,0,Hypertension,Amlodipine
+59,Male,24.9,121,119,212,0,0,0,0,Hypertension,Losartan
+57,Male,18.2,109,77,187,0,0,0,0,Hypertension,Losartan
+59,Female,27.4,133,260,177,0,0,0,0,Hypertension,Losartan
+31,Female,19.7,179,249,147,0,0,0,0,Hypertension,Losartan
+74,Male,28.2,110,166,230,0,0,0,0,Hypertension,Amlodipine
+19,Male,30.4,104,88,257,0,0,0,0,Hypertension,Losartan
+67,Female,34.1,99,215,191,0,0,0,0,Hypertension,Amlodipine
+44,Female,36.0,156,223,153,0,0,0,0,Hypertension,Losartan
+51,Female,19.6,140,167,130,1,0,0,0,Hypertension,Amlodipine
+62,Male,22.0,165,75,149,0,0,0,0,Hypertension,Amlodipine
+20,Female,27.5,141,210,238,0,0,0,0,Hypertension,Losartan
+35,Female,23.0,113,193,271,1,0,0,0,Hypertension,Lisinopril
+22,Female,41.8,168,96,318,0,0,0,0,Hypertension,Losartan
+62,Female,23.3,111,160,251,0,0,0,0,Hypertension,Amlodipine
+44,Male,35.1,134,75,226,0,0,0,0,Hypertension,Losartan
+21,Female,37.8,160,136,232,0,0,0,0,Hypertension,Losartan
+61,Male,19.6,126,70,121,0,0,0,0,Hypertension,Amlodipine
+32,Female,29.4,135,230,308,1,0,0,0,Hypertension,Lisinopril
+19,Female,20.4,130,109,141,0,0,0,0,Hypertension,Losartan
+46,Female,26.6,99,135,173,0,0,0,0,Hypertension,Losartan
+25,Female,32.9,104,147,144,0,0,0,0,Hypertension,Losartan
+48,Female,27.6,100,131,214,0,0,0,0,Type 2 Diabetes,Metformin
+82,Male,41.3,137,252,196,0,0,0,0,Type 2 Diabetes,Metformin
+32,Female,20.5,163,235,126,0,0,0,0,Type 2 Diabetes,Metformin
+58,Male,27.4,175,217,186,0,0,0,0,Type 2 Diabetes,Metformin
+41,Male,25.7,178,136,134,1,0,0,0,Type 2 Diabetes,Glipizide
+43,Male,31.5,113,214,271,0,0,0,0,Type 2 Diabetes,Metformin
+25,Male,19.3,151,250,290,0,0,1,0,Type 2 Diabetes,Glipizide
+81,Male,31.5,102,75,187,0,0,0,0,Type 2 Diabetes,Sitagliptin
+56,Male,25.9,170,237,318,0,0,0,0,Type 2 Diabetes,Metformin
+43,Female,30.9,137,115,314,0,0,0,0,Type 2 Diabetes,Metformin
+57,Female,20.4,128,224,221,0,0,0,0,Type 2 Diabetes,Metformin
+50,Male,28.0,126,94,143,0,0,0,0,Type 2 Diabetes,Metformin
+67,Male,18.6,175,169,221,0,0,0,0,Type 2 Diabetes,Metformin
+49,Male,19.0,148,181,212,0,0,0,0,Type 2 Diabetes,Metformin
+51,Female,20.3,139,250,159,0,0,1,0,Type 2 Diabetes,Metformin
+45,Male,33.2,169,138,206,0,1,0,0,Type 2 Diabetes,Metformin
+50,Male,19.0,112,204,229,0,1,0,0,Type 2 Diabetes,Metformin
+38,Male,19.4,105,70,287,0,0,0,0,Type 2 Diabetes,Metformin
+66,Female,28.7,180,82,154,0,0,0,0,Type 2 Diabetes,Metformin
+83,Female,38.8,103,94,262,0,0,0,0,Type 2 Diabetes,Metformin
+60,Female,37.1,120,174,198,0,0,0,0,Type 2 Diabetes,Metformin
+54,Female,27.3,134,123,192,0,0,1,0,Type 2 Diabetes,Metformin
+67,Female,40.3,166,186,137,0,0,0,0,Type 2 Diabetes,Metformin
+20,Female,40.5,139,236,316,0,1,0,1,Type 2 Diabetes,Metformin
+28,Male,39.9,117,172,252,0,0,0,0,Type 2 Diabetes,Metformin
+60,Male,26.3,176,91,138,0,0,0,0,Type 2 Diabetes,Metformin
+40,Male,31.0,131,104,243,0,0,0,0,Type 2 Diabetes,Metformin
+39,Male,22.1,157,206,308,0,0,0,0,Type 2 Diabetes,Metformin
+20,Male,28.5,118,260,139,0,0,1,0,Type 2 Diabetes,Metformin
+51,Female,33.3,114,186,130,0,0,0,0,Type 2 Diabetes,Metformin
+66,Female,37.7,156,193,270,0,0,0,0,Type 2 Diabetes,Metformin
+71,Female,33.9,124,218,255,0,0,0,0,Type 2 Diabetes,Metformin
+43,Male,35.7,137,157,227,0,0,0,0,Type 2 Diabetes,Metformin
+32,Female,39.5,159,209,174,1,0,0,0,Type 2 Diabetes,Glipizide
+40,Male,39.2,157,215,154,0,0,0,0,Type 2 Diabetes,Metformin
+66,Female,25.4,118,143,145,0,0,1,0,Type 2 Diabetes,Metformin
+34,Male,36.0,104,225,161,0,0,0,0,Type 2 Diabetes,Metformin
+48,Female,27.4,135,207,168,0,0,0,0,Type 2 Diabetes,Metformin
+65,Female,26.9,172,115,228,0,0,0,0,Type 2 Diabetes,Metformin
+69,Male,32.7,180,154,298,0,0,0,0,Type 2 Diabetes,Sitagliptin
+19,Male,29.9,136,163,201,0,0,0,0,Type 2 Diabetes,Sitagliptin
+33,Female,38.3,163,217,319,0,0,0,0,Type 2 Diabetes,Metformin
+73,Male,40.5,132,135,319,0,0,0,0,Type 2 Diabetes,Glipizide
+60,Male,27.7,100,229,120,0,0,0,0,Type 2 Diabetes,Metformin
+64,Male,21.4,173,127,256,0,0,0,0,Type 2 Diabetes,Metformin
+56,Female,28.3,179,152,260,0,0,0,0,Type 2 Diabetes,Metformin
+35,Male,18.1,113,179,234,0,1,0,0,Type 2 Diabetes,Metformin
+67,Male,20.1,107,145,188,0,0,0,0,Type 2 Diabetes,Metformin
+68,Female,38.7,136,170,249,0,0,0,0,Type 2 Diabetes,Metformin
+34,Male,23.9,180,209,137,1,0,0,0,Type 2 Diabetes,Glipizide
+69,Female,24.9,134,106,280,0,0,0,0,Type 2 Diabetes,Metformin
+26,Female,21.2,97,250,223,0,0,0,1,Type 2 Diabetes,Metformin
+45,Male,36.8,149,100,162,0,0,0,0,Type 2 Diabetes,Metformin
+53,Female,38.8,141,128,139,0,0,0,0,Type 2 Diabetes,Metformin
+60,Female,28.6,157,80,296,0,0,0,0,Type 2 Diabetes,Metformin
+60,Female,20.8,179,115,182,0,0,0,0,Type 2 Diabetes,Metformin
+52,Male,23.9,173,217,268,0,0,0,0,Type 2 Diabetes,Metformin
+48,Male,35.3,165,245,151,0,0,0,0,Type 2 Diabetes,Metformin
+84,Female,27.9,103,187,295,0,0,0,0,Type 2 Diabetes,Metformin
+50,Male,25.2,116,217,161,0,0,0,0,Type 2 Diabetes,Glipizide
+48,Female,35.1,122,177,241,1,0,0,1,Type 2 Diabetes,Glipizide
+51,Female,19.2,176,138,270,0,0,0,0,Type 2 Diabetes,Metformin
+38,Female,30.8,130,218,280,0,1,0,0,Type 2 Diabetes,Metformin
+34,Female,30.8,158,89,215,0,0,0,0,Type 2 Diabetes,Metformin
+21,Female,31.9,106,96,172,0,0,0,0,Type 2 Diabetes,Metformin
+84,Female,20.9,102,142,134,0,1,0,0,Type 2 Diabetes,Metformin
+67,Male,36.6,98,190,202,0,0,0,0,Type 2 Diabetes,Metformin
+77,Male,29.2,124,83,154,0,0,0,0,Type 2 Diabetes,Metformin
+72,Male,25.9,176,201,249,1,0,0,0,Type 2 Diabetes,Sitagliptin
+76,Female,39.8,154,91,179,0,0,0,0,Type 2 Diabetes,Metformin
+48,Male,33.0,174,95,185,0,0,1,0,Type 2 Diabetes,Metformin
+65,Female,20.1,130,260,164,0,0,0,0,Type 2 Diabetes,Metformin
+49,Male,36.3,177,160,228,0,0,0,0,Type 2 Diabetes,Metformin
+51,Male,35.7,146,92,134,0,0,0,0,Type 2 Diabetes,Metformin
+55,Female,41.1,139,156,238,0,0,1,0,Type 2 Diabetes,Metformin
+30,Female,35.6,161,205,126,0,0,0,0,Type 2 Diabetes,Metformin
+31,Female,33.4,121,148,178,0,0,0,0,Type 2 Diabetes,Metformin
+69,Female,23.4,180,208,177,0,0,0,0,Type 2 Diabetes,Metformin
+18,Male,30.6,124,192,265,0,0,0,0,Type 2 Diabetes,Metformin
+76,Female,28.6,121,116,318,0,0,0,0,Type 2 Diabetes,Metformin
+20,Female,31.1,101,177,155,0,0,0,0,Type 2 Diabetes,Metformin
+52,Male,22.5,105,171,290,0,0,0,0,Type 2 Diabetes,Metformin
+30,Female,25.6,104,103,171,0,1,1,0,Type 2 Diabetes,Glipizide
+19,Male,21.7,139,185,166,0,1,0,0,Type 2 Diabetes,Metformin
+48,Female,22.3,95,183,301,0,0,0,0,Type 2 Diabetes,Metformin
+31,Male,40.9,169,164,232,0,0,0,0,Type 2 Diabetes,Metformin
+25,Female,35.1,125,73,185,0,0,0,0,Type 2 Diabetes,Metformin
+47,Female,29.4,103,188,241,0,1,0,0,Type 2 Diabetes,Metformin
+23,Female,37.8,143,246,207,0,1,0,0,Type 2 Diabetes,Metformin
+77,Male,41.3,111,243,166,0,1,0,0,Type 2 Diabetes,Metformin
+84,Male,28.0,147,191,234,0,0,1,0,Type 2 Diabetes,Metformin
+30,Male,29.3,157,167,229,0,0,0,0,Type 2 Diabetes,Metformin
+39,Female,29.1,113,183,309,0,0,0,0,Type 2 Diabetes,Metformin
+71,Female,32.8,136,246,144,0,0,0,0,Type 2 Diabetes,Metformin
+63,Male,26.2,121,83,203,0,0,0,0,Type 2 Diabetes,Metformin
+50,Male,38.2,139,76,209,0,0,0,0,Type 2 Diabetes,Metformin
+64,Female,21.4,118,99,157,1,0,0,0,Type 2 Diabetes,Glipizide
+64,Male,30.5,130,121,176,1,0,0,0,Type 2 Diabetes,Glipizide
+69,Female,18.3,133,117,187,0,0,0,0,Type 2 Diabetes,Metformin
+49,Female,18.5,146,190,223,0,0,0,0,Type 2 Diabetes,Metformin
+40,Female,32.4,116,215,301,0,0,0,0,Type 2 Diabetes,Metformin
+42,Female,31.1,141,98,279,0,1,0,0,Type 2 Diabetes,Metformin
+40,Female,41.5,136,125,215,0,1,0,0,Type 2 Diabetes,Metformin
+21,Female,28.2,95,247,266,0,0,0,0,Type 2 Diabetes,Metformin
+52,Female,38.5,119,234,198,0,0,0,0,Type 2 Diabetes,Metformin
+31,Female,27.4,143,108,263,0,0,0,0,Type 2 Diabetes,Metformin
+64,Female,29.2,156,194,192,0,0,0,0,Type 2 Diabetes,Metformin
+47,Female,18.9,143,164,231,0,0,0,0,Type 2 Diabetes,Metformin
+26,Female,35.0,147,149,263,0,0,0,0,Type 2 Diabetes,Metformin
+71,Female,32.7,124,72,134,0,1,0,0,Type 2 Diabetes,Metformin
+81,Female,18.8,118,137,176,0,0,0,0,Type 2 Diabetes,Metformin
+41,Female,20.2,146,74,165,0,0,0,0,Type 2 Diabetes,Metformin
+31,Male,36.6,122,82,273,0,0,0,0,Type 2 Diabetes,Metformin
+66,Male,25.4,100,247,219,0,0,1,0,Type 2 Diabetes,Metformin
+24,Female,36.5,97,211,280,0,0,1,0,Type 2 Diabetes,Metformin
+75,Female,28.8,134,120,315,0,0,0,0,Type 2 Diabetes,Metformin
+44,Male,25.9,131,211,221,0,0,0,0,Type 2 Diabetes,Metformin
+70,Female,31.6,142,148,217,0,0,0,0,Type 2 Diabetes,Metformin
+74,Male,21.4,167,246,225,0,0,0,0,Type 2 Diabetes,Metformin
+29,Male,20.8,125,177,197,1,0,0,0,Type 2 Diabetes,Sitagliptin
+52,Male,24.2,101,196,196,0,0,0,0,Type 2 Diabetes,Metformin
+26,Female,35.2,145,163,208,0,0,0,0,Type 2 Diabetes,Metformin
+35,Female,40.1,174,86,300,0,0,0,0,Type 2 Diabetes,Metformin
+25,Male,22.6,130,175,300,0,0,1,0,Type 2 Diabetes,Metformin
+62,Female,33.7,124,155,138,0,0,0,0,Type 2 Diabetes,Metformin
+75,Female,26.8,169,172,213,1,0,0,0,Type 2 Diabetes,Sitagliptin
+38,Female,24.3,111,128,246,0,0,0,0,Type 2 Diabetes,Metformin
+37,Male,41.2,120,169,144,0,1,0,0,Type 2 Diabetes,Metformin
+79,Male,29.0,179,73,138,0,0,0,0,Type 2 Diabetes,Metformin
+23,Male,38.9,146,190,306,0,0,0,0,Type 2 Diabetes,Glipizide
+24,Male,23.2,108,234,270,0,0,0,0,Type 2 Diabetes,Metformin
+62,Female,20.2,112,164,298,0,0,0,0,Type 2 Diabetes,Metformin
+29,Male,32.7,113,128,241,1,0,1,0,Type 2 Diabetes,Metformin
+82,Male,40.8,121,214,162,0,0,0,0,Type 2 Diabetes,Metformin
+50,Male,32.4,132,190,300,0,1,0,0,Type 2 Diabetes,Metformin
+69,Female,24.9,118,103,140,0,0,1,0,Type 2 Diabetes,Sitagliptin
+19,Female,19.9,120,120,199,0,0,0,0,Type 2 Diabetes,Metformin
+85,Female,37.8,127,128,147,0,0,0,0,Type 2 Diabetes,Metformin
+55,Male,19.7,122,102,260,0,0,0,0,Type 2 Diabetes,Metformin
+85,Male,38.1,101,86,180,1,0,0,0,Type 2 Diabetes,Sitagliptin
+19,Male,37.1,131,239,218,0,0,0,0,Type 2 Diabetes,Metformin
+82,Female,29.5,103,239,142,0,0,0,0,Type 2 Diabetes,Metformin
+63,Female,29.1,139,151,185,0,0,0,0,Type 2 Diabetes,Metformin
+72,Male,32.5,144,95,210,0,0,0,0,Type 2 Diabetes,Sitagliptin
+25,Female,36.3,110,258,174,0,1,0,0,Type 2 Diabetes,Metformin
+21,Male,32.3,95,107,319,0,0,0,0,Type 2 Diabetes,Metformin
+59,Male,37.0,154,213,214,0,0,0,0,Type 2 Diabetes,Metformin
+78,Male,40.4,123,173,257,0,0,0,0,Type 2 Diabetes,Metformin
+41,Female,23.7,178,170,147,0,0,0,0,Type 2 Diabetes,Metformin
+28,Male,35.4,104,83,131,0,0,0,0,Type 2 Diabetes,Metformin
+65,Male,25.7,145,246,260,0,0,0,0,Type 2 Diabetes,Metformin
+63,Male,41.9,137,100,121,0,0,0,0,Type 2 Diabetes,Metformin
+50,Female,32.0,160,181,189,0,0,0,0,Type 2 Diabetes,Metformin
+62,Male,32.5,141,218,140,0,0,0,0,Type 2 Diabetes,Metformin
+40,Female,32.2,110,112,123,0,0,0,0,Type 2 Diabetes,Metformin
+67,Male,35.4,169,140,224,0,1,0,0,Type 2 Diabetes,Metformin
+28,Female,40.7,127,166,318,1,0,0,0,Type 2 Diabetes,Glipizide
+33,Male,20.7,164,246,242,0,0,1,0,Type 2 Diabetes,Metformin
+81,Male,30.5,180,175,249,0,0,1,0,Type 2 Diabetes,Metformin
+32,Male,37.9,176,206,175,1,0,0,0,Type 2 Diabetes,Glipizide
+71,Male,29.1,153,150,295,1,0,0,0,High Cholesterol,Rosuvastatin
+26,Female,31.2,114,260,163,0,0,0,0,High Cholesterol,Atorvastatin
+47,Female,39.9,99,242,310,0,0,0,0,High Cholesterol,Simvastatin
+20,Male,32.1,110,219,148,1,0,0,0,High Cholesterol,Atorvastatin
+43,Male,24.0,124,96,226,0,0,0,0,High Cholesterol,Atorvastatin
+81,Female,31.0,115,165,141,0,0,0,0,High Cholesterol,Rosuvastatin
+34,Female,29.1,170,75,283,0,0,0,0,High Cholesterol,Rosuvastatin
+60,Female,20.4,98,157,251,0,1,0,0,High Cholesterol,Rosuvastatin
+50,Male,31.1,108,188,172,0,0,0,0,High Cholesterol,Simvastatin
+37,Male,19.8,157,107,190,0,0,0,0,High Cholesterol,Atorvastatin
+18,Female,36.4,129,191,299,0,0,0,0,High Cholesterol,Rosuvastatin
+45,Male,40.8,176,153,202,0,0,0,0,High Cholesterol,Atorvastatin
+27,Female,23.6,147,220,253,0,0,0,0,High Cholesterol,Rosuvastatin
+23,Female,29.9,120,107,195,0,0,0,0,High Cholesterol,Atorvastatin
+76,Male,31.7,175,98,204,0,0,0,0,High Cholesterol,Simvastatin
+85,Female,29.9,166,239,229,0,0,0,0,High Cholesterol,Simvastatin
+60,Female,22.8,165,206,264,0,0,0,0,High Cholesterol,Rosuvastatin
+74,Male,35.5,174,222,121,0,0,0,0,High Cholesterol,Simvastatin
+63,Female,28.9,159,244,306,0,0,0,0,High Cholesterol,Rosuvastatin
+39,Male,27.5,173,145,233,0,0,0,0,High Cholesterol,Atorvastatin
+68,Male,29.2,120,187,233,0,0,0,0,High Cholesterol,Atorvastatin
+48,Female,37.6,135,202,269,0,0,0,0,High Cholesterol,Rosuvastatin
+63,Female,35.7,125,115,269,0,0,0,0,High Cholesterol,Rosuvastatin
+63,Female,41.7,170,164,295,0,0,1,0,High Cholesterol,Rosuvastatin
+81,Male,34.5,152,171,124,0,0,0,0,High Cholesterol,Simvastatin
+44,Female,22.1,114,176,249,0,0,0,0,High Cholesterol,Atorvastatin
+83,Female,30.1,140,259,201,0,0,0,0,High Cholesterol,Simvastatin
+18,Male,22.0,130,118,268,0,0,0,0,High Cholesterol,Rosuvastatin
+79,Female,25.2,112,176,126,0,0,0,0,High Cholesterol,Simvastatin
+40,Female,31.8,155,259,138,0,0,0,0,High Cholesterol,Atorvastatin
+30,Female,22.5,161,164,318,0,0,0,0,High Cholesterol,Rosuvastatin
+20,Female,38.9,163,167,260,0,0,0,0,High Cholesterol,Rosuvastatin
+39,Female,40.7,101,166,209,0,0,0,0,High Cholesterol,Atorvastatin
+32,Male,19.2,113,214,241,0,0,0,0,High Cholesterol,Atorvastatin
+42,Female,20.5,105,87,248,0,0,0,0,High Cholesterol,Atorvastatin
+57,Male,27.2,141,229,262,0,0,0,0,High Cholesterol,Rosuvastatin
+23,Male,26.5,148,171,256,0,0,0,0,High Cholesterol,Rosuvastatin
+58,Male,23.9,105,192,186,0,0,0,0,High Cholesterol,Atorvastatin
+77,Female,19.0,154,154,125,0,0,0,0,High Cholesterol,Simvastatin
+25,Male,24.9,153,199,242,0,0,0,0,High Cholesterol,Atorvastatin
+21,Female,37.5,113,169,268,0,0,0,0,High Cholesterol,Rosuvastatin
+42,Male,33.6,137,121,225,1,0,0,0,High Cholesterol,Atorvastatin
+43,Male,23.0,116,140,238,0,1,0,0,High Cholesterol,Atorvastatin
+60,Female,28.4,121,225,202,0,0,0,0,High Cholesterol,Atorvastatin
+39,Female,29.0,159,257,203,0,0,0,0,High Cholesterol,Atorvastatin
+75,Female,31.4,120,247,165,0,0,1,0,High Cholesterol,Simvastatin
+20,Male,23.2,105,92,175,0,0,1,0,High Cholesterol,Atorvastatin
+31,Female,31.2,121,132,214,0,1,0,0,High Cholesterol,Atorvastatin
+55,Female,41.6,107,178,244,0,0,1,0,High Cholesterol,Atorvastatin
+45,Female,33.0,143,150,144,0,0,0,0,High Cholesterol,Atorvastatin
+44,Female,19.4,178,147,305,0,0,0,0,High Cholesterol,Rosuvastatin
+26,Female,21.7,165,116,171,1,0,0,1,High Cholesterol,Atorvastatin
+76,Female,19.4,152,102,238,0,0,0,0,High Cholesterol,Simvastatin
+52,Male,23.0,173,177,264,0,0,0,0,High Cholesterol,Simvastatin
+80,Female,18.3,108,258,287,0,0,0,0,High Cholesterol,Rosuvastatin
+33,Female,37.2,122,74,312,0,0,0,0,High Cholesterol,Rosuvastatin
+72,Male,26.1,154,99,225,0,0,0,0,High Cholesterol,Simvastatin
+18,Male,32.2,103,91,171,0,0,0,0,High Cholesterol,Atorvastatin
+85,Female,29.3,112,194,170,0,0,0,0,High Cholesterol,Simvastatin
+26,Male,35.2,156,186,295,0,0,1,0,High Cholesterol,Rosuvastatin
+31,Female,23.8,137,81,313,0,0,0,0,High Cholesterol,Rosuvastatin
+55,Male,31.5,142,79,215,0,0,0,0,High Cholesterol,Rosuvastatin
+74,Male,23.9,146,123,269,1,0,0,0,High Cholesterol,Atorvastatin
+23,Male,25.0,159,130,298,0,0,0,0,High Cholesterol,Rosuvastatin
+70,Male,20.2,145,132,207,0,0,0,0,High Cholesterol,Simvastatin
+33,Female,21.4,122,144,173,0,0,0,0,High Cholesterol,Rosuvastatin
+35,Female,41.6,114,94,261,0,1,0,0,High Cholesterol,Rosuvastatin
+34,Male,36.4,133,155,198,0,0,0,0,High Cholesterol,Atorvastatin
+68,Male,39.3,116,163,139,0,0,0,0,High Cholesterol,Atorvastatin
+49,Male,21.6,167,111,221,0,0,0,0,High Cholesterol,Atorvastatin
+36,Female,28.7,127,244,202,0,0,0,1,High Cholesterol,Atorvastatin
+22,Male,35.4,103,235,122,0,0,0,0,High Cholesterol,Atorvastatin
+79,Female,20.7,114,117,252,0,0,0,0,High Cholesterol,Rosuvastatin
+49,Female,31.1,163,245,198,0,0,0,0,High Cholesterol,Simvastatin
+36,Female,27.4,148,119,151,0,0,0,0,High Cholesterol,Atorvastatin
+29,Female,26.0,153,205,249,0,0,0,0,High Cholesterol,Atorvastatin
+58,Male,28.8,135,190,150,0,0,0,0,High Cholesterol,Atorvastatin
+28,Male,26.0,123,221,211,0,0,0,0,High Cholesterol,Atorvastatin
+60,Male,40.7,105,151,167,1,1,0,0,High Cholesterol,Atorvastatin
+79,Male,19.4,167,83,276,0,0,0,0,High Cholesterol,Rosuvastatin
+22,Female,37.8,129,192,126,0,0,0,1,High Cholesterol,Atorvastatin
+67,Female,21.0,125,145,157,0,1,1,0,High Cholesterol,Atorvastatin
+49,Female,41.6,105,254,309,0,0,0,0,High Cholesterol,Rosuvastatin
+27,Male,32.5,101,126,318,0,0,0,0,High Cholesterol,Rosuvastatin
+41,Female,38.8,158,139,260,0,0,0,0,High Cholesterol,Rosuvastatin
+18,Female,19.9,99,249,266,0,0,0,0,High Cholesterol,Atorvastatin
+55,Female,33.5,155,215,197,0,0,0,0,High Cholesterol,Atorvastatin
+54,Male,40.1,164,245,269,0,0,1,0,High Cholesterol,Rosuvastatin
+32,Female,20.3,148,137,155,0,0,0,0,High Cholesterol,Atorvastatin
+65,Male,24.7,96,84,186,0,0,0,0,High Cholesterol,Atorvastatin
+30,Female,37.4,179,199,213,0,0,0,0,High Cholesterol,Atorvastatin
+31,Female,21.9,103,72,146,0,0,0,0,High Cholesterol,Atorvastatin
+82,Male,40.1,162,127,146,0,0,0,0,High Cholesterol,Simvastatin
+25,Female,41.3,135,167,231,0,0,1,0,High Cholesterol,Simvastatin
+38,Female,19.0,143,70,135,0,1,0,0,High Cholesterol,Atorvastatin
+51,Female,36.3,124,251,185,0,0,0,0,High Cholesterol,Atorvastatin
+27,Male,37.7,155,104,217,0,0,0,0,High Cholesterol,Atorvastatin
+50,Female,24.6,103,87,152,0,0,0,0,High Cholesterol,Atorvastatin
+27,Female,26.5,148,207,266,0,0,0,0,High Cholesterol,Rosuvastatin
+57,Male,18.6,136,95,309,0,0,0,0,High Cholesterol,Rosuvastatin
+40,Female,19.5,112,74,214,1,0,0,0,High Cholesterol,Atorvastatin
+58,Female,19.5,120,106,268,1,0,0,0,High Cholesterol,Simvastatin
+47,Male,37.2,155,175,241,0,0,0,0,High Cholesterol,Atorvastatin
+57,Female,40.7,136,122,259,0,0,0,0,High Cholesterol,Rosuvastatin
+19,Male,25.0,170,242,224,0,0,0,0,High Cholesterol,Simvastatin
+52,Female,37.1,152,96,238,0,0,1,0,High Cholesterol,Simvastatin
+20,Female,29.9,123,127,191,0,0,0,0,High Cholesterol,Atorvastatin
+30,Female,32.0,169,183,145,0,0,0,0,High Cholesterol,Atorvastatin
+39,Female,18.9,171,235,291,0,0,0,1,High Cholesterol,Rosuvastatin
+53,Female,40.9,97,124,147,0,0,0,0,High Cholesterol,Atorvastatin
+76,Male,40.7,142,169,208,0,0,0,0,High Cholesterol,Simvastatin
+62,Female,35.8,169,247,291,1,0,0,0,High Cholesterol,Atorvastatin
+53,Male,30.6,137,243,130,0,0,0,0,High Cholesterol,Atorvastatin
+77,Male,33.8,103,260,146,0,1,0,0,High Cholesterol,Simvastatin
+47,Male,36.9,156,80,133,0,0,0,0,High Cholesterol,Atorvastatin
+75,Female,30.7,108,199,137,0,0,0,0,High Cholesterol,Simvastatin
+30,Male,41.6,133,117,270,0,0,0,0,High Cholesterol,Atorvastatin
+58,Male,24.3,160,105,129,0,0,0,0,High Cholesterol,Atorvastatin
+20,Male,25.9,160,249,285,0,0,1,0,High Cholesterol,Atorvastatin
+85,Male,40.5,162,107,301,1,0,0,0,High Cholesterol,Rosuvastatin
+41,Female,24.9,157,213,138,0,0,0,0,High Cholesterol,Atorvastatin
+71,Male,31.3,133,159,202,0,0,0,0,High Cholesterol,Simvastatin
+29,Male,31.5,119,154,188,0,0,0,0,High Cholesterol,Atorvastatin
+65,Female,35.9,153,221,161,0,0,1,0,High Cholesterol,Atorvastatin
+53,Male,21.1,144,225,166,0,0,0,0,High Cholesterol,Atorvastatin
+66,Male,18.0,144,186,249,0,0,0,0,High Cholesterol,Atorvastatin
+59,Male,24.7,139,253,241,0,0,0,0,High Cholesterol,Atorvastatin
+66,Male,22.1,147,83,229,0,0,0,0,High Cholesterol,Rosuvastatin
+43,Male,28.4,138,199,141,0,0,0,0,High Cholesterol,Simvastatin
+19,Female,21.9,135,189,261,0,0,0,0,High Cholesterol,Rosuvastatin
+41,Male,31.1,141,239,209,0,0,0,0,High Cholesterol,Atorvastatin
+33,Female,38.4,104,157,293,0,0,0,0,High Cholesterol,Rosuvastatin
+81,Female,40.2,138,188,206,0,0,0,0,High Cholesterol,Simvastatin
+52,Female,37.5,178,220,293,0,0,0,0,High Cholesterol,Rosuvastatin
+85,Female,25.4,171,155,176,0,0,0,0,High Cholesterol,Simvastatin
+39,Female,36.4,101,189,279,0,0,0,0,High Cholesterol,Rosuvastatin
+25,Female,36.7,128,125,209,0,0,1,1,High Cholesterol,Atorvastatin
+72,Male,39.2,169,129,311,0,0,0,0,High Cholesterol,Rosuvastatin
+85,Female,40.5,161,70,220,0,0,0,0,High Cholesterol,Simvastatin
+27,Female,32.8,123,72,298,0,0,0,0,High Cholesterol,Rosuvastatin
+37,Male,32.9,116,123,266,0,0,0,0,High Cholesterol,Rosuvastatin
+48,Female,33.4,152,97,158,1,0,0,0,High Cholesterol,Atorvastatin
+38,Female,37.7,101,111,172,0,0,1,0,High Cholesterol,Atorvastatin
+72,Female,36.1,99,123,190,0,0,0,0,High Cholesterol,Simvastatin
+82,Female,25.4,141,108,273,1,0,0,0,High Cholesterol,Rosuvastatin
+39,Male,23.1,99,244,302,0,0,0,0,High Cholesterol,Rosuvastatin
+41,Female,21.1,178,142,141,0,0,0,0,High Cholesterol,Atorvastatin
+57,Male,25.7,170,246,234,0,1,0,0,High Cholesterol,Atorvastatin
+85,Female,29.7,102,105,272,0,0,0,0,High Cholesterol,Rosuvastatin
+24,Male,32.4,98,189,138,0,0,0,0,High Cholesterol,Atorvastatin
+58,Female,18.6,98,152,269,0,0,0,0,High Cholesterol,Simvastatin
+23,Female,26.0,115,197,283,0,0,0,0,High Cholesterol,Rosuvastatin
+47,Male,38.0,168,142,266,0,0,0,0,High Cholesterol,Rosuvastatin
+56,Male,38.4,107,152,265,0,0,0,0,High Cholesterol,Rosuvastatin
+73,Female,40.5,160,110,302,0,0,0,0,High Cholesterol,Rosuvastatin
+32,Female,35.4,177,221,279,0,0,0,0,High Cholesterol,Rosuvastatin
+25,Male,24.0,169,237,273,0,0,0,0,High Cholesterol,Rosuvastatin
+39,Female,29.2,159,141,189,0,0,0,0,High Cholesterol,Atorvastatin
+50,Female,20.1,121,117,281,0,0,0,0,High Cholesterol,Rosuvastatin
+21,Female,40.6,149,140,313,0,0,0,0,High Cholesterol,Rosuvastatin
+60,Female,36.2,103,253,252,0,0,0,0,Asthma,Budesonide
+23,Male,41.0,174,170,145,0,0,0,0,Asthma,Albuterol
+18,Female,21.7,103,177,143,0,0,0,0,Asthma,Budesonide
+36,Female,25.5,138,104,174,0,0,0,0,Asthma,Albuterol
+19,Male,21.3,143,237,233,1,0,0,0,Asthma,Albuterol
+23,Female,34.5,163,230,247,0,0,1,0,Asthma,Albuterol
+70,Female,25.9,118,223,308,0,0,0,0,Asthma,Montelukast
+56,Female,25.0,101,154,263,1,0,0,0,Asthma,Budesonide
+64,Male,33.7,150,83,242,0,0,0,0,Asthma,Budesonide
+53,Female,24.8,140,150,221,0,0,0,0,Asthma,Budesonide
+36,Female,28.5,164,198,261,1,0,1,0,Asthma,Albuterol
+32,Male,25.8,118,177,121,0,0,0,0,Asthma,Albuterol
+35,Female,20.9,104,181,320,0,1,0,1,Asthma,Albuterol
+42,Male,40.0,135,206,296,0,1,0,0,Asthma,Albuterol
+49,Male,24.1,174,167,148,0,0,0,0,Asthma,Budesonide
+82,Male,25.5,98,146,295,0,0,0,0,Asthma,Montelukast
+27,Female,27.0,140,166,254,0,0,0,0,Asthma,Albuterol
+20,Female,38.8,119,143,230,0,0,0,0,Asthma,Albuterol
+44,Female,38.8,113,103,189,0,0,0,0,Asthma,Albuterol
+24,Female,39.8,151,171,278,0,1,0,0,Asthma,Albuterol
+57,Female,29.9,150,222,138,1,0,0,0,Asthma,Budesonide
+74,Female,39.2,122,110,269,0,0,0,0,Asthma,Montelukast
+24,Male,35.2,176,91,133,0,0,0,0,Asthma,Albuterol
+44,Female,21.1,122,94,259,0,0,1,0,Asthma,Albuterol
+30,Female,21.4,149,252,235,0,0,1,0,Asthma,Albuterol
+62,Female,29.8,178,194,194,0,0,0,0,Asthma,Budesonide
+23,Female,23.3,101,95,213,0,0,0,0,Asthma,Montelukast
+40,Female,18.3,115,197,139,0,0,0,0,Asthma,Albuterol
+82,Male,23.8,120,172,233,0,0,0,0,Asthma,Montelukast
+30,Female,22.1,117,106,306,1,0,0,0,Asthma,Albuterol
+83,Female,35.3,171,112,317,0,0,0,0,Asthma,Montelukast
+31,Female,33.9,151,184,216,0,0,0,0,Asthma,Albuterol
+73,Female,27.4,151,129,285,0,0,0,0,Asthma,Montelukast
+75,Male,40.2,106,213,216,0,0,0,0,Asthma,Montelukast
+23,Male,40.8,110,197,156,0,0,0,0,Asthma,Albuterol
+55,Female,27.5,176,151,280,0,0,0,0,Asthma,Budesonide
+32,Female,36.9,151,123,268,0,0,0,0,Asthma,Albuterol
+65,Male,18.7,110,225,201,0,0,0,0,Asthma,Budesonide
+29,Female,24.6,120,209,141,0,0,0,0,Asthma,Albuterol
+63,Female,20.4,159,216,235,0,0,0,0,Asthma,Budesonide
+74,Female,34.5,148,167,301,0,0,0,0,Asthma,Montelukast
+39,Male,20.3,177,205,130,0,0,0,0,Asthma,Albuterol
+67,Male,30.0,161,134,274,0,0,0,0,Asthma,Budesonide
+53,Female,40.8,142,222,239,0,0,0,0,Asthma,Budesonide
+78,Male,37.2,136,168,302,0,0,0,0,Asthma,Montelukast
+27,Male,18.5,105,166,135,0,0,0,0,Asthma,Albuterol
+76,Male,27.2,97,167,215,0,1,0,0,Asthma,Montelukast
+23,Female,24.0,137,172,186,0,0,1,0,Asthma,Budesonide
+64,Female,23.0,152,170,248,0,0,0,0,Asthma,Budesonide
+37,Male,27.7,96,146,227,0,0,0,0,Asthma,Albuterol
+35,Female,36.9,106,176,189,0,0,0,0,Asthma,Albuterol
+59,Male,29.6,155,163,304,0,0,0,0,Asthma,Montelukast
+51,Female,35.4,101,259,231,0,0,0,0,Asthma,Albuterol
+78,Male,20.5,110,200,161,0,0,0,0,Asthma,Montelukast
+80,Male,22.6,153,81,228,0,0,0,0,Asthma,Montelukast
+48,Female,31.6,104,86,157,0,1,0,0,Asthma,Budesonide
+38,Female,26.0,137,99,285,0,0,0,0,Asthma,Albuterol
+32,Male,18.8,178,159,267,0,1,0,0,Asthma,Albuterol
+72,Male,30.9,148,195,247,0,0,0,0,Asthma,Montelukast
+71,Female,38.5,117,129,124,0,0,0,0,Asthma,Montelukast
+28,Female,30.7,96,231,255,1,0,0,0,Asthma,Albuterol
+22,Male,24.8,171,167,284,0,0,0,0,Asthma,Albuterol
+55,Male,36.2,138,260,214,0,0,0,0,Asthma,Budesonide
+52,Female,38.6,172,125,238,1,0,0,0,Asthma,Budesonide
+65,Female,21.8,172,242,302,0,0,0,0,Asthma,Albuterol
+22,Female,32.2,101,168,282,0,0,0,0,Asthma,Albuterol
+73,Female,35.1,111,260,183,1,0,0,0,Asthma,Montelukast
+41,Male,33.1,175,74,224,0,0,0,0,Asthma,Budesonide
+60,Female,36.9,175,73,291,0,0,0,0,Asthma,Budesonide
+64,Female,22.8,171,175,184,0,0,0,0,Asthma,Albuterol
+61,Male,19.6,170,160,125,1,1,1,0,Asthma,Budesonide
+75,Male,21.1,164,73,145,0,0,0,0,Asthma,Montelukast
+85,Male,39.1,157,169,209,0,1,0,0,Asthma,Montelukast
+51,Male,34.6,168,251,223,0,0,0,0,Asthma,Budesonide
+39,Male,41.5,151,259,269,1,0,0,0,Asthma,Albuterol
+66,Female,24.8,170,92,201,0,0,0,0,Asthma,Budesonide
+52,Male,39.5,111,113,125,0,0,0,0,Asthma,Budesonide
+25,Male,40.0,138,127,223,0,0,0,0,Asthma,Albuterol
+28,Female,33.7,139,79,192,0,0,0,0,Asthma,Albuterol
+64,Male,35.9,138,73,240,0,0,0,0,Asthma,Budesonide
+36,Female,21.9,170,164,194,1,0,0,0,Asthma,Albuterol
+82,Male,18.3,119,70,256,0,0,0,0,Asthma,Montelukast
+52,Female,27.1,145,173,157,0,0,1,0,Asthma,Budesonide
+72,Male,38.0,103,141,269,0,0,0,0,Asthma,Montelukast
+57,Female,19.0,120,122,183,0,0,0,0,Asthma,Budesonide
+64,Female,29.7,119,175,267,0,0,0,0,Asthma,Budesonide
+19,Female,26.0,140,199,149,0,1,0,0,Asthma,Albuterol
+42,Female,41.3,152,103,293,0,0,0,0,Asthma,Albuterol
+28,Male,33.5,118,84,128,0,0,0,0,Asthma,Albuterol
+61,Male,41.3,133,157,297,0,0,0,0,Asthma,Budesonide
+61,Female,20.7,161,216,177,0,0,0,0,Asthma,Budesonide
+68,Female,24.5,96,138,320,0,0,0,0,Asthma,Budesonide
+63,Female,32.8,162,157,121,0,0,0,0,Asthma,Budesonide
+26,Female,32.1,122,218,223,0,0,0,0,Asthma,Albuterol
+76,Female,36.3,179,116,267,0,0,0,0,Asthma,Montelukast
+23,Female,35.4,142,254,256,0,0,0,0,Asthma,Albuterol
+76,Female,30.1,104,87,124,0,0,0,0,Asthma,Budesonide
+30,Female,41.8,153,164,149,0,0,0,0,Asthma,Albuterol
+42,Female,34.4,101,114,120,0,0,0,0,Asthma,Albuterol
+44,Female,34.9,150,259,320,0,0,0,0,Asthma,Albuterol
+34,Female,31.3,98,246,235,0,0,0,0,Asthma,Albuterol
+75,Female,37.7,173,85,287,1,0,0,0,Asthma,Montelukast
+51,Male,34.1,179,173,274,0,0,0,0,Asthma,Budesonide
+75,Female,29.9,178,209,126,0,0,0,0,Asthma,Montelukast
+31,Male,27.5,123,156,245,0,0,0,0,Asthma,Albuterol
+68,Female,38.6,171,111,264,0,0,0,0,Asthma,Budesonide
+25,Male,25.8,135,175,177,0,0,0,0,Asthma,Albuterol
+37,Female,40.5,159,191,305,1,0,0,0,Asthma,Albuterol
+79,Female,24.6,117,98,209,0,0,0,0,Asthma,Montelukast
+41,Female,22.2,154,257,164,0,1,0,1,Asthma,Albuterol
+56,Male,40.0,111,111,270,0,0,0,0,Asthma,Budesonide
+39,Male,28.0,105,221,294,0,0,0,0,Asthma,Albuterol
+37,Male,40.0,130,156,152,0,0,0,0,Asthma,Albuterol
+23,Female,24.6,170,200,151,0,1,0,0,Asthma,Albuterol
+20,Female,21.2,155,84,278,0,1,0,0,Asthma,Albuterol
+77,Female,24.9,124,123,211,0,0,0,0,Asthma,Montelukast
+46,Male,38.5,131,146,196,0,0,0,0,Asthma,Budesonide
+63,Female,28.7,179,215,188,0,0,0,0,Asthma,Budesonide
+47,Female,26.3,109,159,279,0,0,0,0,Asthma,Budesonide
+75,Female,32.2,99,166,189,0,0,0,0,Asthma,Montelukast
+28,Male,26.1,101,205,281,0,0,0,0,Asthma,Albuterol
+45,Male,26.2,149,115,297,0,0,1,0,Asthma,Budesonide
+79,Female,23.0,149,73,165,0,0,1,0,Asthma,Budesonide
+48,Male,38.9,148,245,142,0,0,0,0,Asthma,Budesonide
+73,Male,31.1,135,149,247,1,0,0,0,Asthma,Montelukast
+85,Female,30.2,174,100,208,0,0,0,0,Asthma,Montelukast
+55,Male,33.5,117,145,250,0,1,1,0,Asthma,Budesonide
+18,Female,24.6,102,217,251,0,0,0,0,Asthma,Albuterol
+82,Male,25.7,156,213,190,0,0,1,0,Asthma,Montelukast
+27,Male,25.6,177,114,156,0,0,0,0,Asthma,Albuterol
+56,Female,23.0,132,78,183,0,0,0,0,Asthma,Budesonide
+49,Female,31.9,132,104,224,0,0,0,0,Asthma,Albuterol
+34,Male,31.0,138,242,231,0,0,0,0,Asthma,Albuterol
+84,Female,27.7,167,104,315,0,0,0,0,Asthma,Montelukast
+46,Female,35.8,153,103,186,0,1,1,0,Asthma,Budesonide
+19,Male,28.2,150,122,258,0,0,0,0,Asthma,Albuterol
+47,Female,36.6,106,76,160,0,0,0,0,Asthma,Budesonide
+53,Female,33.1,147,74,230,0,0,0,0,Asthma,Budesonide
+36,Male,20.8,151,184,178,0,0,0,0,Asthma,Albuterol
+54,Female,34.7,115,181,262,0,0,0,0,Asthma,Budesonide
+53,Male,21.6,126,246,239,0,0,0,0,Asthma,Budesonide
+74,Female,34.7,167,145,248,0,0,0,0,Asthma,Montelukast
+85,Male,29.5,154,80,164,0,0,0,0,Asthma,Montelukast
+61,Female,22.3,171,237,148,0,0,0,0,Asthma,Budesonide
+66,Female,20.9,113,111,213,0,0,0,0,Asthma,Budesonide
+43,Male,34.0,145,245,140,0,0,0,0,Asthma,Albuterol
+45,Male,26.2,135,232,163,0,0,0,0,Asthma,Budesonide
+76,Male,36.9,118,117,217,0,0,0,0,Asthma,Montelukast
+60,Male,38.6,111,142,130,0,0,0,0,Asthma,Budesonide
+21,Male,36.8,163,195,252,0,0,0,0,Asthma,Albuterol
+64,Male,23.7,114,152,292,0,0,0,0,Asthma,Budesonide
+65,Female,29.7,144,116,162,1,0,0,0,Asthma,Albuterol
+60,Male,33.0,164,83,153,0,0,0,0,Asthma,Budesonide
+39,Male,37.5,112,127,303,0,0,0,0,Asthma,Albuterol
+34,Female,26.0,146,190,231,0,0,1,0,Asthma,Albuterol
+30,Female,32.3,125,130,164,0,0,0,0,Asthma,Albuterol
+53,Male,36.4,149,101,308,0,0,0,0,Asthma,Budesonide
+20,Male,23.6,129,186,226,0,0,0,0,Asthma,Albuterol
+76,Male,29.7,137,184,312,0,0,0,0,Asthma,Montelukast
+47,Female,32.6,149,220,207,0,0,1,1,Asthma,Budesonide
+22,Female,30.6,121,187,167,0,0,0,0,Acid Reflux,Omeprazole
+31,Female,25.6,107,176,199,0,0,0,0,Acid Reflux,Omeprazole
+61,Male,23.4,171,150,218,0,0,0,0,Acid Reflux,Pantoprazole
+55,Male,32.5,142,167,131,0,0,0,0,Acid Reflux,Omeprazole
+32,Male,30.3,179,189,128,0,0,0,0,Acid Reflux,Omeprazole
+42,Female,30.1,133,184,317,0,0,0,0,Acid Reflux,Omeprazole
+75,Female,32.0,132,149,192,0,0,0,0,Acid Reflux,Pantoprazole
+21,Male,25.0,175,226,202,0,0,0,0,Acid Reflux,Omeprazole
+19,Male,34.5,172,192,241,0,0,0,0,Acid Reflux,Famotidine
+77,Male,37.8,113,156,292,0,0,0,0,Acid Reflux,Pantoprazole
+29,Female,36.1,147,134,308,1,0,0,0,Acid Reflux,Pantoprazole
+52,Male,25.4,148,90,206,0,0,1,0,Acid Reflux,Omeprazole
+26,Female,40.0,138,256,156,0,0,0,0,Acid Reflux,Omeprazole
+38,Male,19.0,99,233,165,0,0,0,0,Acid Reflux,Omeprazole
+68,Male,25.9,122,229,135,0,0,0,0,Acid Reflux,Pantoprazole
+78,Female,29.4,102,194,163,1,1,0,0,Acid Reflux,Famotidine
+38,Female,25.2,179,259,217,0,0,0,0,Acid Reflux,Omeprazole
+81,Female,21.0,159,238,186,0,0,0,0,Acid Reflux,Famotidine
+29,Male,22.6,99,185,120,0,0,0,0,Acid Reflux,Omeprazole
+58,Female,34.2,124,80,145,1,0,0,0,Acid Reflux,Omeprazole
+76,Male,34.4,147,211,144,0,0,0,0,Acid Reflux,Pantoprazole
+36,Female,36.1,112,173,319,0,0,0,0,Acid Reflux,Omeprazole
+84,Female,40.3,108,83,269,0,0,0,0,Acid Reflux,Pantoprazole
+22,Female,28.8,129,116,195,1,0,0,0,Acid Reflux,Omeprazole
+77,Female,20.5,131,161,280,0,1,0,0,Acid Reflux,Famotidine
+48,Male,40.0,163,109,201,0,0,0,0,Acid Reflux,Omeprazole
+44,Female,28.5,149,177,175,0,0,0,0,Acid Reflux,Omeprazole
+27,Female,22.8,138,175,140,0,0,1,0,Acid Reflux,Omeprazole
+48,Male,39.0,180,184,190,0,0,0,0,Acid Reflux,Omeprazole
+46,Female,39.3,108,229,194,1,0,0,0,Acid Reflux,Omeprazole
+50,Male,39.0,146,227,291,0,0,0,0,Acid Reflux,Omeprazole
+76,Male,35.6,110,215,312,0,0,0,0,Acid Reflux,Pantoprazole
+71,Female,36.8,147,175,292,0,0,0,0,Acid Reflux,Pantoprazole
+38,Female,36.3,152,258,237,0,0,0,0,Acid Reflux,Omeprazole
+22,Male,35.4,140,134,152,0,0,0,0,Acid Reflux,Omeprazole
+18,Male,28.2,119,260,170,0,0,0,0,Acid Reflux,Omeprazole
+54,Female,40.0,98,147,273,1,0,0,0,Acid Reflux,Omeprazole
+41,Female,21.5,174,185,170,0,0,0,0,Acid Reflux,Omeprazole
+80,Female,26.6,108,123,275,0,0,0,0,Acid Reflux,Pantoprazole
+77,Female,19.0,147,235,262,0,1,0,0,Acid Reflux,Famotidine
+57,Female,22.9,152,161,303,0,0,0,0,Acid Reflux,Omeprazole
+38,Male,32.3,123,149,250,0,0,1,0,Acid Reflux,Omeprazole
+42,Male,39.2,172,151,311,0,0,0,0,Acid Reflux,Omeprazole
+58,Female,41.9,165,75,238,0,0,0,0,Acid Reflux,Omeprazole
+58,Female,37.9,113,108,164,0,0,0,0,Acid Reflux,Omeprazole
+21,Male,20.1,112,106,200,0,0,0,0,Acid Reflux,Omeprazole
+48,Female,28.4,134,187,202,0,0,0,1,Acid Reflux,Omeprazole
+35,Female,27.2,158,97,144,0,0,0,0,Acid Reflux,Omeprazole
+55,Male,36.6,118,201,186,0,0,0,0,Acid Reflux,Omeprazole
+83,Female,26.5,107,257,197,0,0,1,0,Acid Reflux,Pantoprazole
+27,Male,40.8,120,226,249,0,0,0,0,Acid Reflux,Omeprazole
+81,Female,35.6,131,120,138,0,0,0,0,Acid Reflux,Pantoprazole
+23,Female,37.5,108,226,120,0,0,0,0,Acid Reflux,Omeprazole
+68,Male,18.1,133,77,235,0,0,0,0,Acid Reflux,Pantoprazole
+30,Female,33.5,132,106,146,0,0,0,0,Acid Reflux,Omeprazole
+39,Male,37.1,134,97,307,1,0,1,0,Acid Reflux,Omeprazole
+53,Male,34.4,112,80,145,0,0,0,0,Acid Reflux,Omeprazole
+69,Female,18.0,128,136,307,0,0,0,0,Acid Reflux,Pantoprazole
+42,Male,35.9,130,165,182,0,0,0,0,Acid Reflux,Omeprazole
+42,Female,41.1,121,128,165,0,0,0,0,Acid Reflux,Omeprazole
+19,Female,26.7,170,75,153,0,0,0,0,Acid Reflux,Omeprazole
+23,Female,25.9,125,91,161,0,0,0,0,Acid Reflux,Omeprazole
+84,Female,28.3,116,156,255,0,0,0,0,Acid Reflux,Pantoprazole
+26,Male,37.5,157,135,215,0,0,0,0,Acid Reflux,Omeprazole
+75,Female,32.6,120,161,194,1,0,0,0,Acid Reflux,Pantoprazole
+47,Male,31.2,144,125,130,0,0,0,0,Acid Reflux,Omeprazole
+84,Male,26.4,100,187,155,0,0,0,0,Acid Reflux,Pantoprazole
+41,Male,21.6,117,247,172,1,0,0,0,Acid Reflux,Omeprazole
+42,Male,21.7,151,210,159,0,0,1,0,Acid Reflux,Omeprazole
+41,Male,25.8,95,94,141,0,0,0,0,Acid Reflux,Omeprazole
+84,Male,25.8,128,251,264,0,0,0,0,Acid Reflux,Pantoprazole
+57,Female,32.7,130,151,242,0,1,0,0,Acid Reflux,Famotidine
+71,Male,27.9,173,104,235,0,0,1,0,Acid Reflux,Pantoprazole
+48,Male,31.2,131,176,133,0,0,0,0,Acid Reflux,Omeprazole
+48,Male,24.9,174,194,207,0,0,0,0,Acid Reflux,Omeprazole
+60,Male,28.6,100,122,182,0,0,1,0,Acid Reflux,Omeprazole
+41,Male,36.4,101,81,249,0,0,0,0,Acid Reflux,Omeprazole
+76,Female,34.0,139,120,141,1,0,0,0,Acid Reflux,Pantoprazole
+66,Male,27.0,162,121,245,0,0,1,0,Acid Reflux,Pantoprazole
+37,Female,39.2,106,154,267,0,0,0,0,Acid Reflux,Omeprazole
+58,Female,35.9,106,211,204,1,0,0,0,Acid Reflux,Omeprazole
+85,Male,24.2,146,240,190,0,0,0,0,Acid Reflux,Pantoprazole
+62,Male,30.4,142,189,301,0,0,0,0,Acid Reflux,Pantoprazole
+75,Male,27.0,169,103,270,0,1,1,0,Acid Reflux,Famotidine
+57,Male,39.4,161,118,229,1,0,0,0,Acid Reflux,Omeprazole
+18,Female,21.0,145,242,254,1,0,1,1,Acid Reflux,Omeprazole
+76,Male,27.9,141,224,301,0,1,0,0,Acid Reflux,Famotidine
+78,Male,41.6,177,201,248,0,0,0,0,Acid Reflux,Omeprazole
+84,Female,36.3,123,82,182,0,0,0,0,Acid Reflux,Pantoprazole
+22,Male,39.8,122,129,180,0,0,0,0,Acid Reflux,Omeprazole
+69,Female,40.9,173,187,313,0,0,0,0,Acid Reflux,Pantoprazole
+63,Male,39.5,162,139,256,1,0,0,0,Acid Reflux,Pantoprazole
+21,Male,18.9,160,143,178,0,0,0,0,Acid Reflux,Omeprazole
+69,Male,23.8,137,73,130,1,0,0,0,Acid Reflux,Pantoprazole
+73,Female,27.9,176,138,288,0,0,0,0,Acid Reflux,Pantoprazole
+59,Male,30.6,115,131,164,1,0,0,0,Acid Reflux,Omeprazole
+77,Female,41.9,169,259,156,0,0,0,0,Acid Reflux,Pantoprazole
+49,Male,37.5,165,260,213,0,0,0,0,Acid Reflux,Famotidine
+70,Female,30.5,148,185,302,0,0,0,0,Acid Reflux,Pantoprazole
+64,Male,31.5,147,167,188,0,0,1,0,Acid Reflux,Pantoprazole
+67,Male,19.8,139,193,256,0,0,0,0,Acid Reflux,Pantoprazole
+46,Female,26.4,122,148,221,0,0,0,0,Acid Reflux,Omeprazole
+65,Female,24.0,154,135,225,0,0,0,0,Acid Reflux,Pantoprazole
+40,Male,31.2,114,88,302,0,0,0,0,Acid Reflux,Omeprazole
+77,Male,24.5,123,192,234,0,0,0,0,Acid Reflux,Pantoprazole
+66,Female,36.8,153,260,290,1,0,1,0,Acid Reflux,Pantoprazole
+76,Male,30.3,145,155,231,0,0,1,0,Acid Reflux,Pantoprazole
+65,Male,34.2,144,133,194,0,0,0,0,Acid Reflux,Pantoprazole
+74,Male,20.9,119,160,151,0,0,0,0,Acid Reflux,Pantoprazole
+19,Male,24.7,112,129,163,0,0,0,0,Acid Reflux,Omeprazole
+44,Female,21.8,158,230,313,0,0,0,0,Acid Reflux,Omeprazole
+65,Male,20.8,107,230,209,1,0,1,0,Acid Reflux,Pantoprazole
+53,Male,29.2,163,121,297,0,0,0,0,Acid Reflux,Omeprazole
+66,Male,20.5,142,171,230,0,0,0,0,Acid Reflux,Pantoprazole
+36,Male,25.0,169,171,213,1,0,0,0,Acid Reflux,Omeprazole
+50,Female,37.7,157,226,249,1,0,0,0,Acid Reflux,Omeprazole
+77,Male,24.4,116,113,231,0,0,0,0,Acid Reflux,Pantoprazole
+33,Male,32.3,163,98,195,1,0,1,0,Acid Reflux,Omeprazole
+73,Male,33.6,126,243,189,0,0,1,0,Acid Reflux,Pantoprazole
+32,Male,31.1,102,84,204,0,1,0,0,Acid Reflux,Famotidine
+63,Female,34.7,121,112,168,0,0,0,0,Acid Reflux,Pantoprazole
+38,Female,19.1,158,172,215,0,0,0,0,Acid Reflux,Omeprazole
+85,Female,30.0,152,95,228,0,0,0,0,Acid Reflux,Pantoprazole
+56,Female,27.1,140,251,311,1,0,0,0,Acid Reflux,Omeprazole
+50,Male,27.0,144,216,236,0,0,0,0,Acid Reflux,Omeprazole
+22,Female,31.7,142,99,222,0,0,0,0,Acid Reflux,Omeprazole
+22,Female,34.9,160,245,122,0,0,1,0,Acid Reflux,Omeprazole
+52,Male,40.8,134,256,223,0,0,0,0,Acid Reflux,Omeprazole
+78,Male,20.8,108,178,305,0,0,0,0,Acid Reflux,Pantoprazole
+36,Female,41.9,126,237,212,0,0,0,0,Acid Reflux,Famotidine
+69,Male,41.9,162,170,213,0,0,0,0,Acid Reflux,Pantoprazole
+44,Male,31.1,132,80,290,0,1,1,0,Acid Reflux,Famotidine
+62,Male,37.4,104,239,268,0,0,0,0,Acid Reflux,Pantoprazole
+61,Male,29.7,169,221,165,0,0,0,0,Acid Reflux,Pantoprazole
+18,Female,37.5,110,93,225,0,0,1,0,Acid Reflux,Omeprazole
+29,Female,31.7,151,85,309,0,0,0,0,Acid Reflux,Omeprazole
+24,Male,20.8,100,79,243,0,0,0,0,Acid Reflux,Omeprazole
+54,Female,21.4,149,172,231,0,0,0,0,Acid Reflux,Omeprazole
+78,Male,41.5,95,94,128,0,0,0,0,Acid Reflux,Pantoprazole
+43,Female,27.9,176,84,273,0,0,0,1,Acid Reflux,Pantoprazole
+42,Female,26.2,154,258,133,0,0,1,0,Acid Reflux,Omeprazole
+37,Female,35.4,150,126,172,0,0,0,0,Acid Reflux,Omeprazole
+29,Female,22.5,159,99,277,0,0,0,0,Acid Reflux,Omeprazole
+24,Male,35.6,173,216,281,0,0,0,0,Acid Reflux,Omeprazole
+32,Female,28.8,138,78,173,0,0,0,0,Acid Reflux,Omeprazole
+18,Female,33.7,171,192,241,0,0,0,0,Acid Reflux,Omeprazole
+56,Female,28.3,162,151,165,0,0,0,0,Acid Reflux,Omeprazole
+85,Female,30.7,98,144,283,0,0,0,0,Acid Reflux,Pantoprazole
+26,Female,32.9,162,186,129,0,0,0,1,Acid Reflux,Omeprazole
+75,Female,21.6,162,256,212,0,0,0,0,Acid Reflux,Pantoprazole
+51,Female,21.5,167,199,197,0,1,0,0,Acid Reflux,Pantoprazole
+51,Male,27.2,149,184,301,0,0,0,0,Acid Reflux,Omeprazole
+34,Male,28.7,132,244,163,0,0,0,0,Acid Reflux,Famotidine
+51,Female,28.9,121,159,207,0,0,0,0,Acid Reflux,Omeprazole
+47,Female,19.8,148,150,285,0,0,0,0,Acid Reflux,Famotidine
+29,Male,22.0,138,87,171,0,0,0,0,Acid Reflux,Omeprazole
+81,Female,28.3,112,129,191,0,0,0,0,Acid Reflux,Famotidine
+50,Male,39.2,116,155,147,1,0,0,0,Acid Reflux,Omeprazole
+30,Female,37.2,135,77,153,0,0,0,1,Acid Reflux,Omeprazole
+44,Male,23.0,151,195,158,1,0,0,0,Acid Reflux,Omeprazole
